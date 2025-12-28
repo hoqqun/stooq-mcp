@@ -4,6 +4,10 @@
 
 Rust で実装された MCP (Model Context Protocol) サーバーです。[stooq.com](https://stooq.com) から株価データを取得します。
 
+## デモ
+
+https://github.com/user-attachments/assets/72b4b865-5073-4d04-b5d0-ed109600e021
+
 ## 機能
 
 - **最新株価取得** - リアルタイムの株価データを取得

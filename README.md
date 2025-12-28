@@ -4,6 +4,10 @@
 
 A Model Context Protocol (MCP) server written in Rust that fetches stock price data from [stooq.com](https://stooq.com).
 
+## Demo
+
+https://github.com/user-attachments/assets/63b55175-80c3-42aa-a28a-bdb21c66169e
+
 ## Features
 
 - **Latest stock prices** - Get real-time stock price data
