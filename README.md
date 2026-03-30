@@ -14,6 +14,10 @@ https://github.com/user-attachments/assets/63b55175-80c3-42aa-a28a-bdb21c66169e
 - **Historical data** - Retrieve historical stock data with custom date ranges
 - **Multi-market support** - Access stocks from 5 major markets
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/hoqqun-stooq-mcp).
+
 ## Supported Markets
 
 | Market Code | Country |
